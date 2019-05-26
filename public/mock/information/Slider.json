@@ -1,0 +1,17 @@
+[
+    {
+        "title": "SliderItem1",
+        "id": "S-1",
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558637545575&di=0e2a14e643c96d22a34133709ceda13d&imgtype=0&src=http%3A%2F%2Fp0.so.qhmsg.com%2Ft01a48998f7daebc415.jpg"
+    },
+    {
+        "title": "SliderItem2",
+        "id": "S-2",
+        "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=417658522,4233513470&fm=15&gp=0.jpg"
+    },
+    {
+        "title": "SliderItem3",
+        "id": "S-3",
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559232691&di=1dedf86c403b34541be66393db463d57&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.redocn.com%2Fsheji%2F20160325%2Fqidancheqinglvlangmanpugongyingweimeijianyuedianshibeijingqiang_6051950.jpg"
+    }
+]

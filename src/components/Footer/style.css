@@ -1,0 +1,29 @@
+.Footer {
+    height: 70px;
+    width: 60%;
+    margin: 15px auto 15px auto;
+    color: #6d6d6d;
+}
+
+.Footer img {
+    width: 30px;
+    height: 30px;
+}
+
+.Footer__left {
+    float: left;
+}
+.Footer__homeTitle {
+    font-size: 13px;
+    display: block;
+    text-align: center;
+}
+
+.Footer__right {
+    float: right;
+}
+.Footer__myTitle {
+    font-size: 13px;
+    display: block;
+    text-align: center;
+}
